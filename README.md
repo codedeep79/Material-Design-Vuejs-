@@ -1,6 +1,12 @@
 # Material-Design-Vuejs
 
-References: [https://vuetifyjs.com/en/](https://vuetifyjs.com/en/)
+### Deploy project:
+```
+npm install
+npm run build
+npm run dev
+```
+### References: [https://vuetifyjs.com/en/](https://vuetifyjs.com/en/)
 
 ![](https://vuetifyjs.com/static/vuetify-logo-300.png)
 
