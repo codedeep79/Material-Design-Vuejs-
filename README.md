@@ -2,6 +2,8 @@
 
 References: [https://vuetifyjs.com/en/](https://vuetifyjs.com/en/)
 
+![](https://vuetifyjs.com/static/vuetify-logo-300.png)
+
 ```
 $ npm install vuetify --save
 ```
